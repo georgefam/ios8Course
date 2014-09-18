@@ -4,8 +4,8 @@ import UIKit
 
 var str = "Hello, playground"
 
-let bride:String = "George"
-let groom:String = "Katherine"
+let bride:String = "Name 1"
+let groom:String = "Name 2"
 
 var greetings:[String] = []
 
