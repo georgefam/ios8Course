@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:ios8Course"
+      name = "ios8Course">
+      <Group
+         location = "group:../Playgrounds"
+         name = "Playgrounds">
+         <Group
+            location = "group:../ios8Course/Playgrounds/Arrays"
+            name = "Arrays">
+            <FileRef
+               location = "group:Arrays.playground">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:../ios8Course/Playgrounds/MyPlayground.playground">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+</Workspace>
